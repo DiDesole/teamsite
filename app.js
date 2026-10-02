@@ -8,3 +8,4 @@ if (hour < 12) {
 } else {
   greeting.textContent = "Guten Abend! Willkommen auf der Team-Seite.";
 }
+//Hook test bestanden
