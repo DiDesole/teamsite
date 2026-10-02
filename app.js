@@ -9,3 +9,4 @@ if (hour < 12) {
   greeting.textContent = "Guten Abend! Willkommen auf der Team-Seite.";
 }
 //Hook test bestanden
+// Commit template test 1
